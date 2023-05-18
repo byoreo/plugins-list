@@ -2,4 +2,4 @@
 
 Plugins  | Links
 ------------- | -------------
-countdown fix  | (http://localhost/ "link title")
+countdown fix  | [Click here](http://localhost/sexyapmayin!)
