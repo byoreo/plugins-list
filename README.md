@@ -12,7 +12,12 @@ Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
 countdown fix  | [Click Here](https://github.com/byoreo/zp-countdown-fix) | ByOreo
 
-### 🔨 Extra Items
+### 🔨 Extra Human Items
+Plugins | Links | Owner
+------------- | ------------- | ------------- |
+null | null | null |
+
+### 🔨 Extra Zombie Items
 Plugins | Links | Owner
 ------------- | ------------- | ------------- |
 null | null | null |
