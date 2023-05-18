@@ -5,7 +5,7 @@
 ### 🧩 Addons
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
-null  | null | null
+hud server info | [Click Here](https://github.com/byoreo/hud-server-info) | ByOreo
 
 ### 🧩 ZP Addons
 Plugins  | Links | Owner
