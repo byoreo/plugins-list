@@ -1,4 +1,4 @@
-![Header Image](https://github.com/byoreo/.github/banner.jpg?raw=true)
+![Header Image](https://raw.githubusercontent.com/byoreo/plugins-list/main/.github/banner.jpg)
 ![banner](https://github.com/byoreo/plugins-list/assets/96012695/76ced6aa-e3db-4e67-b7f9-b89ac1af7e30)
 
 # 📂 Plugins List
