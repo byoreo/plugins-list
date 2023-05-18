@@ -1,4 +1,4 @@
-![Header]([https://github.com/byoreo/plugins-list/.github/banner.jpg])
+![Header](./banner.jpg)
 
 # 📂 Plugins List
 
