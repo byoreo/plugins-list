@@ -10,7 +10,7 @@ Plugins | Links | Owner
 ------------- | ------------- | ------------- |
 null | null | null |
 
-### Classes
+### 🧟‍♂️ Classes
 Plugins | Links | Owner
 ------------- | ------------- | ------------- |
 null | null | null |
