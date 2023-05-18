@@ -2,5 +2,4 @@
 
 Plugins  | Links
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
+countdown fix  | (https://github.com/byoreo/zp-countdown-fix "Link") 
