@@ -1,4 +1,4 @@
-# zp-plugins-list
+###ZP Plugins List
 
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
