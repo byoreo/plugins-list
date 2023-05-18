@@ -1,4 +1,4 @@
-###ZP Plugins List
+###ZP-Plugins-List
 
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
