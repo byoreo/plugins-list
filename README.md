@@ -2,4 +2,4 @@
 
 Plugins  | Links
 ------------- | -------------
-countdown fix  | [Link](http://localhost/sexyapmayin!](https://github.com/byoreo/zp-countdown-fix)
+countdown fix  | [Link](https://github.com/byoreo/zp-countdown-fix)
