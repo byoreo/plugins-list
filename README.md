@@ -2,4 +2,4 @@
 
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
-countdown fix  | [Link](https://github.com/byoreo/zp-countdown-fix) | ByOreo
+countdown fix  | [Click Here](https://github.com/byoreo/zp-countdown-fix) | ByOreo
