@@ -1,4 +1,4 @@
-![Header](./[[Your header image](https://github.com/byoreo/plugins-list)/.github/banner.jpg])
+![Header](./[(https://github.com/byoreo/plugins-list)/.github/banner.jpg])
 
 # 📂 Plugins List
 
