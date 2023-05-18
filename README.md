@@ -2,4 +2,4 @@
 
 Plugins  | Links
 ------------- | -------------
-countdown fix  | (https://github.com/byoreo/zp-countdown-fix "Link") 
+countdown fix  | (http://localhost/ "link title")
