@@ -15,7 +15,7 @@ Plugins | Links | Owner
 ------------- | ------------- | ------------- |
 null | null | null |
 
-### 🧟‍♂️ Classes
+### 🧟‍♂️ Zombie Classes
 Plugins | Links | Owner
 ------------- | ------------- | ------------- |
 null | null | null |
