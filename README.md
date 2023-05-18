@@ -1,6 +1,11 @@
-# 📂 ZP Plugins List
+# 📂 Plugins List
 
 ### 🧩 Addons
+Plugins  | Links | Owner
+------------- | ------------- | ------------- |
+null  | null | null
+
+### 🧩 ZP Addons
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
 countdown fix  | [Click Here](https://github.com/byoreo/zp-countdown-fix) | ByOreo
