@@ -6,6 +6,7 @@
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
 hud server info | [Click Here](https://github.com/byoreo/hud-server-info) | ByOreo
+anti csqq | [Click Here](https://github.com/iQuitt/anti-csqq) | iQuit
 
 ### 🧩 ZP Addons
 Plugins  | Links | Owner
