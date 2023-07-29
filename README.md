@@ -5,7 +5,7 @@
 ### ZP Versions
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
-Fix5a | [Click Here](https://github.com/byoreo/zm-plague-4.3-fix5a) | ByOreo
+Fix5a | Soon.. | ByOreo
 
 ### 🧩 Addons
 Plugins  | Links | Owner
