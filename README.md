@@ -5,7 +5,7 @@
 ### ZP Versions
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
-Fix5a | [Click Here](https://github.com/byoreo/zp43ext) | ByOreo
+ZP Extended | [Click Here](https://github.com/byoreo/zp43ext) | ByOreo
 
 ### 🧩 Addons
 Plugins  | Links | Owner
