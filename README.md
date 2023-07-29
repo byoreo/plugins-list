@@ -5,7 +5,7 @@
 ### ZP 4.3 Fix5a
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
-Fix5a | [Click Here](https://github.com/byoreo/hud-server-info](https://github.com/byoreo/zm-plague-4.3-fix5a) | ByOreo
+Fix5a | [Click Here](https://github.com/byoreo/zm-plague-4.3-fix5a) | ByOreo
 
 ### 🧩 Addons
 Plugins  | Links | Owner
