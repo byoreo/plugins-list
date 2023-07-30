@@ -1,4 +1,3 @@
-![Header](./banner.jpg)
 
 # 📂 Plugins List
 
