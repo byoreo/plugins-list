@@ -8,7 +8,7 @@
 ### ZP Versions
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
-ZP Extended | [Click Here](https://github.com/byoreo/zp43ext) | byoreo
+zp extended | [Click Here](https://github.com/byoreo/zp43ext) | byoreo
 
 ### 🧩 Addons
 Plugins  | Links | Owner
@@ -25,7 +25,7 @@ kill reward | [Click Here](https://github.com/byoreo/zp_kill_reward) | byoreo
 ### 🔨 Extra Human Items
 Plugins | Links | Owner
 ------------- | ------------- | ------------- |
-null | null | null |
+gold ak47 | [Click Here](https://github.com/byoreo/zp_extra_goldak) | byoreo |
 
 ### 🔨 Extra Zombie Items
 Plugins | Links | Owner
