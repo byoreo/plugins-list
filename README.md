@@ -8,18 +8,19 @@
 ### ZP Versions
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
-ZP Extended | [Click Here](https://github.com/byoreo/zp43ext) | ByOreo
+ZP Extended | [Click Here](https://github.com/byoreo/zp43ext) | byoreo
 
 ### 🧩 Addons
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
-hud server info | [Click Here](https://github.com/byoreo/hud-server-info) | ByOreo
-anti CSQQ| [Click Here](https://github.com/iQuitt/anti-csqq) | iQuit
+hud server info | [Click Here](https://github.com/byoreo/hud-server-info) | byoreo
+anti CSQQ| [Click Here](https://github.com/iQuitt/anti-csqq) | iQuitt
 
 ### 🧩 ZP Addons
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
-countdown fix  | [Click Here](https://github.com/byoreo/zp-countdown-fix) | ByOreo
+countdown fix | [Click Here](https://github.com/byoreo/zp-countdown-fix) | byoreo
+kill reward | [Click Here](https://github.com/byoreo/zp_kill_reward) | byoreo
 
 ### 🔨 Extra Human Items
 Plugins | Links | Owner
