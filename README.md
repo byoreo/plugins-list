@@ -15,7 +15,7 @@ anti CSQQ| [Click Here](https://github.com/iQuitt/anti-csqq) | iQuitt
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
 ZP Extended | [Click Here](https://github.com/byoreo/zp43ext) | byoreo
-ReZombiePlague | [Click Here](https://github.com/fl0werD/ReZombiePlague) | fl0werD
+ReZombiePlague | [Click Here](https://github.com/fl0werD/ReZombiePlague) | fl0werD, wopox1337
 
 ### 🧩 ZP Addons
 Plugins  | Links | Owner
