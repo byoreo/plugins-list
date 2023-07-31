@@ -25,7 +25,8 @@ kill reward | [Click Here](https://github.com/byoreo/zp_kill_reward) | byoreo
 ### 🔨 Extra Human Items
 Plugins | Links | Owner
 ------------- | ------------- | ------------- |
-gold ak47 (fixed) | [Click Here](https://github.com/byoreo/zp_extra_goldak) | byoreo |
+gold ak47 (fixed) | [Click Here](https://github.com/byoreo/zp_extra_goldak) | byoreo 
+jetpack | [Click Here](https://github.com/byoreo/zp_extra_jetpack) | byoreo 
 
 ### 🔨 Extra Zombie Items
 Plugins | Links | Owner
