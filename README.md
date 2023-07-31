@@ -5,16 +5,16 @@
 
 ###
 
-### ZP Versions
-Plugins  | Links | Owner
-------------- | ------------- | ------------- |
-zp extended | [Click Here](https://github.com/byoreo/zp43ext) | byoreo
-
 ### 🧩 Addons
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
 hud server info | [Click Here](https://github.com/byoreo/hud-server-info) | byoreo
 anti CSQQ| [Click Here](https://github.com/iQuitt/anti-csqq) | iQuitt
+
+### ZP Versions
+Plugins  | Links | Owner
+------------- | ------------- | ------------- |
+zp extended | [Click Here](https://github.com/byoreo/zp43ext) | byoreo
 
 ### 🧩 ZP Addons
 Plugins  | Links | Owner
