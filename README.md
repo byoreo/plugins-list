@@ -16,6 +16,7 @@ Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
 ZP Extended | [Click Here](https://github.com/byoreo/zp43ext) | byoreo
 ReZombiePlague | [Click Here](https://github.com/fl0werD/ReZombiePlague) | fl0werD, wopox1337
+ZM Infecor World | [Click Here](https://github.com/qberkdc/Z.I.W) | qberkdc
 
 ### 🧩 ZP Addons
 Plugins  | Links | Owner
