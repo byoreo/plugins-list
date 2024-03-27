@@ -9,7 +9,7 @@
 Plugins  | Links | Owner
 ------------- | ------------- | ------------- |
 hud server info | [Click Here](https://github.com/byoreo/hud-server-info) | byoreo
-anti CSQQ| [Click Here](https://github.com/iQuitt/anti-csqq) | iQuitt
+anti CSQQ | [Click Here](https://github.com/iQuitt/anti-csqq) | iQuitt
 
 ### ZP Versions
 Plugins  | Links | Owner
@@ -29,6 +29,7 @@ Plugins | Links | Owner
 ------------- | ------------- | ------------- |
 gold ak47 (fixed) | [Click Here](https://github.com/byoreo/zp_extra_goldak) | byoreo 
 jetpack | [Click Here](https://github.com/byoreo/zp_extra_jetpack) | byoreo 
+crossfire m4 | [Click Here](https://github.com/byoreo/zp_extra_cross_m4a1) | itz_bader
 
 ### 🔨 Extra Zombie Items
 Plugins | Links | Owner
